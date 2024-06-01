@@ -32,7 +32,7 @@ window.addEventListener('scroll', () => {
 //menu
 
 // fetch('data.json').then(res=> res.json()).then(data=> console.log(data))
-fetch('./data.json')
+fetch('https://raw.githubusercontent.com/SeadetMammadova/data/main/data.json')
   .then(response =>  response.json())
   .then(data => {
     console.log(data, 'datam');

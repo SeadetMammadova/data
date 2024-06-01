@@ -1,4 +1,4 @@
-[
+{ "data":[
     {
         "displayOrder": 1,
         "name": "Drinks",
@@ -6943,4 +6943,4 @@
         "id": "merchandise",
         "uri": "/merchandise"
     }
-]
+]}
